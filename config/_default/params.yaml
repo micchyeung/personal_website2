@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: sys
   color: emerald
+  # mode: light
+  # color: blue
 
 # SEO
 marketing:
@@ -35,12 +37,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Michael Yeung"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Michael Yeung. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

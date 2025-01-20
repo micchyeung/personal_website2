@@ -24,22 +24,18 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: erass1_allsky.png
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My current research focuses on inferring the properties the local interstellar medium. Our Solar System lives in a low density environment called the Local Hot Bubble (LHB), generally believed to be created by a sucession of supernova explosions a few to tens of million years ago. These explosions heated the bubble to ~10{{< super "6" >}} Kelvin (~0.1 keV) today, a temperature at which the gas emits thermally in the X-ray band. Looking from the inside, a X-ray all-sky survey instrument is therefore able to capture a holistic view of the LHB. I have recently made use of the eROSITA All-Sky Survey spectra to measure the temperature and infer the 3D structure of the LHB. We have revealed a (Galactic) North-South temperature dichotomy of the LHB for the first time and discovered a new interstellar tunnel of hot gas towards Centaurus.
     design:
       columns: '1'
   - block: collection
