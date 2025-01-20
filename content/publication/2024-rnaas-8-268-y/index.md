@@ -1,14 +1,16 @@
 ---
 title: The Distance to Dobashi 6193—A Dark Cloud Shadowing the eROSITA Bubbles
+date: '2024-10-01'
+draft: true
+publishDate: '2025-01-20T18:09:06.954337Z'
 authors:
 - Michael C.~H. Yeung
 - Michael J. Freyberg
-date: '2024-10-01'
-publishDate: '2025-01-20T15:00:45.493062Z'
 publication_types:
-- article-journal
-publication: '*Research Notes of the American Astronomical Society*'
-doi: 10.3847/2515-5172/ad8923
+- '2'
+abstract: ''
+featured: true
+publication: '*RNAAS*'
 tags:
 - Diffuse x-ray background
 - Stellar parallax
@@ -20,4 +22,6 @@ tags:
 - '837'
 - '1656'
 - '752'
+doi: 10.3847/2515-5172/ad8923
 ---
+

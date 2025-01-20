@@ -1,6 +1,9 @@
 ---
 title: 'The SRG/eROSITA diffuse soft X-ray background: I. The local hot bubble in
   the western Galactic hemisphere'
+date: '2024-10-01'
+draft: true
+publishDate: '2025-01-20T18:09:07.140350Z'
 authors:
 - Michael C.~H. Yeung
 - Gabriele Ponti
@@ -15,12 +18,11 @@ authors:
 - Yi Zhang
 - Xueying Zheng
 - Efrain Gatuzz
-date: '2024-10-01'
-publishDate: '2025-01-20T15:00:45.514998Z'
 publication_types:
-- article-journal
-publication: '*åp*'
-doi: 10.1051/0004-6361/202451045
+- '2'
+abstract: ''
+featured: true
+publication: '*A&A*'
 tags:
 - 'ISM: bubbles'
 - 'ISM: structure'
@@ -29,7 +31,9 @@ tags:
 - 'X-rays: diffuse background'
 - 'X-rays: ISM'
 - Astrophysics - Astrophysics of Galaxies
+doi: 10.1051/0004-6361/202451045
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2410.23345
 ---
+
