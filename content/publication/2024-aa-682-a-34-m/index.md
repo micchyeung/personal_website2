@@ -1,0 +1,164 @@
+---
+title: The SRG/eROSITA all-sky survey. First X-ray catalogues and data release of
+  the western Galactic hemisphere
+authors:
+- A. Merloni
+- G. Lamer
+- T. Liu
+- M.~E. Ramos-Ceja
+- H. Brunner
+- E. Bulbul
+- K. Dennerl
+- V. Doroshenko
+- M.~J. Freyberg
+- S. Friedrich
+- E. Gatuzz
+- A. Georgakakis
+- F. Haberl
+- Z. Igo
+- I. Kreykenbohm
+- A. Liu
+- C. Maitra
+- A. Malyali
+- M.~G.~F. Mayer
+- K. Nandra
+- P. Predehl
+- J. Robrade
+- M. Salvato
+- J.~S. Sanders
+- I. Stewart
+- D. Tubı́n-Arenas
+- P. Weber
+- J. Wilms
+- R. Arcodia
+- E. Artis
+- J. Aschersleben
+- A. Avakyan
+- C. Aydar
+- Y.~E. Bahar
+- F. Balzer
+- W. Becker
+- K. Berger
+- T. Boller
+- W. Bornemann
+- M. Brüggen
+- M. Brusa
+- J. Buchner
+- V. Burwitz
+- F. Camilloni
+- N. Clerc
+- J. Comparat
+- D. Coutinho
+- S. Czesla
+- S.~M. Dannhauer
+- L. Dauner
+- T. Dauser
+- J. Dietl
+- K. Dolag
+- T. Dwelly
+- K. Egg
+- E. Ehl
+- S. Freund
+- P. Friedrich
+- R. Gaida
+- C. Garrel
+- V. Ghirardini
+- A. Gokus
+- G. Grünwald
+- S. Grandis
+- I. Grotova
+- D. Gruen
+- A. Gueguen
+- S. Hämmerich
+- N. Hamaus
+- G. Hasinger
+- K. Haubner
+- D. Homan
+- J. Ider Chitham
+- W.~M. Joseph
+- A. Joyce
+- O. König
+- D.~M. Kaltenbrunner
+- A. Khokhriakova
+- W. Kink
+- C. Kirsch
+- M. Kluge
+- J. Knies
+- S. Krippendorf
+- M. Krumpe
+- J. Kurpas
+- P. Li
+- Z. Liu
+- N. Locatelli
+- M. Lorenz
+- S. Müller
+- E. Magaudda
+- C. Mannes
+- H. McCall
+- N. Meidinger
+- M. Michailidis
+- K. Migkas
+- D. Muñoz-Giraldo
+- B. Musiimenta
+- N.~T. Nguyen-Dang
+- Q. Ni
+- A. Olechowska
+- N. Ota
+- F. Pacaud
+- T. Pasini
+- E. Perinati
+- A.~M. Pires
+- C. Pommranz
+- G. Ponti
+- K. Poppenhaeger
+- G. Pühlhofer
+- A. Rau
+- M. Reh
+- T.~H. Reiprich
+- W. Roster
+- S. Saeedi
+- A. Santangelo
+- M. Sasaki
+- J. Schmitt
+- P.~C. Schneider
+- T. Schrabback
+- N. Schuster
+- A. Schwope
+- R. Seppi
+- M.~M. Serim
+- S. Shreeram
+- E. Sokolova-Lapa
+- H. Starck
+- B. Stelzer
+- J. Stierhof
+- V. Suleimanov
+- C. Tenzer
+- I. Traulsen
+- J. Trümper
+- K. Tsuge
+- T. Urrutia
+- A. Veronica
+- S.~G.~H. Waddell
+- R. Willer
+- J. Wolf
+- M.~C.~H. Yeung
+- A. Zainab
+- F. Zangrandi
+- X. Zhang
+- Y. Zhang
+- X. Zheng
+date: '2024-02-01'
+publishDate: '2025-01-20T15:00:45.551392Z'
+publication_types:
+- article-journal
+publication: '*åp*'
+doi: 10.1051/0004-6361/202347165
+tags:
+- catalogs
+- surveys
+- 'X-rays: general'
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2401.17274
+---
