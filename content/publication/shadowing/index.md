@@ -1,7 +1,7 @@
 ---
 title: SRG/eROSITA X-ray shadowing study of giant molecular clouds
 date: '2023-08-01'
-draft: true
+draft: false
 publishDate: '2025-01-20T18:09:07.324402Z'
 authors:
 - M. C. H. Yeung

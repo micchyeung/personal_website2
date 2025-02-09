@@ -2,7 +2,7 @@
 title: Recent Formation of a Spiral Disk Hosting Progenitor Globular Clusters at the
   Center of the Perseus Brightest Cluster Galaxy. I. Spiral Disk
 date: '2022-03-01'
-draft: true
+draft: false
 publishDate: '2025-01-20T18:09:07.540499Z'
 authors:
 - Michael C. H. Yeung

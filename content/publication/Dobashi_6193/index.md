@@ -1,7 +1,7 @@
 ---
 title: The Distance to Dobashi 6193—A Dark Cloud Shadowing the eROSITA Bubbles
 date: '2024-10-01'
-draft: true
+draft: false
 publishDate: '2025-01-20T18:09:06.954337Z'
 authors:
 - Michael C. H. Yeung

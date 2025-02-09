@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research focuses on inferring the properties the local interstellar medium. Our Solar System lives in a low density environment called the Local Hot Bubble (LHB), generally believed to be created by a sucession of supernova explosions a few to tens of million years ago. These explosions heated the bubble to ~10{{< super "6" >}} Kelvin (~0.1 keV) today, a temperature at which the gas emits thermally in the X-ray band. Looking from the inside, a X-ray all-sky survey instrument is therefore able to capture a holistic view of the LHB. I have recently made use of the eROSITA All-Sky Survey spectra to measure the temperature and infer the 3D structure of the LHB. We have revealed a (Galactic) North-South temperature dichotomy of the LHB for the first time and discovered a new interstellar tunnel of hot gas towards Centaurus.
+        My current research focuses on diffuse emissions and large-scale structures in the X-ray sky, ranging from the physical scale of the Solar System (~AU) to large-scale outflow in the Galaxy (~kpc).<br> <br>Recently, I concern myself with the properties the local interstellar medium (LISM): our Solar System lives in a low density environment called the Local Hot Bubble (LHB), generally believed to be created by a sucession of supernova explosions a few to tens of million years ago. These explosions heated the bubble to ~10{{< super "6" >}} Kelvin (~0.1 keV) today, a temperature at which the gas emits thermally in the X-ray band. <br>Looking from the inside, a X-ray all-sky survey instrument is therefore able to capture a holistic view of the LHB. This dataset is available in the form of the eROSITA All-Sky Surveys (eRASSs), which I rely on to decompose the diffuse X-ray background into its physical constitutes including the LHB, and to constrain their physical properties.
     design:
       columns: '1'
   - block: collection
@@ -59,45 +59,45 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

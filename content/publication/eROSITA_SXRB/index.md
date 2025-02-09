@@ -1,7 +1,7 @@
 ---
 title: 'The SRG/eROSITA diffuse soft X-ray background: I. The local hot bubble in the western Galactic hemisphere'
 date: '2024-10-01'
-draft: true
+draft: false
 publishDate: '2025-01-20T18:09:07.140350Z'
 authors:
 - Michael C. H. Yeung
