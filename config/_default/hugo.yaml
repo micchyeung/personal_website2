@@ -3,10 +3,40 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Website name
-title: Michael Yeung
-# Website URL
-baseURL: 'https://mchyeung.com/'
+title: "Michael Yeung" # Website name
+baseURL: 'https://mchyeung.com/' # Website URL
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Docs folder options
+  - _target:
+      path: /docs/**
+    editable: true
+    show_breadcrumb: true
+    # Hide date from Next In Series
+    show_date: false
+    # Show date modified at end of content
+    show_date_updated: true
+  # Blog post options
+  - _target:
+      path: /blog/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: false
+    commentable: true
+    show_related: false
+    share: false
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## LANGUAGE
@@ -31,26 +61,39 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+enableInlineShortcodes: true
 permalinks:
   authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, WebAppManifest, headers, redirects, backlinks]
+  page: [HTML]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  quality: 85
   anchor: smart
 timeout: 600000
 taxonomies:
-  author: authors
   tag: tags
-  publication_type: publication_types
+  category: categories
+  author: authors
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

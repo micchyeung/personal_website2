@@ -14,24 +14,26 @@ abstract: ''
 featured: false
 publication: '*ApJ*'
 tags:
-- Galaxy spectroscopy
-- Optical astronomy
-- Cooling flows
-- Post-starburst galaxies
-- Spectral index
-- Stellar populations
-- Brightest cluster galaxies
-- '2171'
-- '1776'
-- '2028'
-- '2176'
-- '1553'
-- '1622'
-- '181'
+# - Galaxy spectroscopy
+# - Optical astronomy
+# - Cooling flows
+# - Post-starburst galaxies
+# - Spectral index
+# - Stellar populations
+# - Brightest cluster galaxies
+# - '2171'
+# - '1776'
+# - '2028'
+# - '2176'
+# - '1553'
+# - '1622'
+# - '181'
 - Astrophysics - Astrophysics of Galaxies
 doi: 10.3847/1538-4357/ac4df5
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2203.03974
+- name: NASA ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...927..137Y/abstract
 ---
 

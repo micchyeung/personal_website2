@@ -29,14 +29,14 @@ Results. We find the temperature of the LHB exhibits a north-south dichotomy at 
 featured: true
 publication: '*A&A*'
 tags:
-- 'Local Hot Bubble'
-- 'ISM: bubbles'
-- 'ISM: structure'
-- local insterstellar matter
-- solar neighborhood
-- 'X-rays: diffuse background'
-- 'X-rays: ISM'
-- Astrophysics - Astrophysics of Galaxies
+# - 'Local Hot Bubble'
+# - 'ISM: bubbles'
+# - 'ISM: structure'
+# - local insterstellar matter
+# - solar neighborhood
+# - 'X-rays: diffuse background'
+# - 'X-rays: ISM'
+# - Astrophysics - Astrophysics of Galaxies
 doi: 10.1051/0004-6361/202451045
 
 # Featured image
@@ -53,5 +53,7 @@ links:
   url: https://erosita.mpe.mpg.de/dr1/AllSkySurveyData_dr1/DiffuseBkg/k3d.html
 - name: arXiv
   url: https://arxiv.org/abs/2410.23345
+- name: NASA ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.399Y/abstract
 ---
 

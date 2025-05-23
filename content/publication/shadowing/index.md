@@ -22,16 +22,18 @@ Results. We find the density of the LHB to be independent of the sight line with
 featured: true
 publication: '*A&A*'
 tags:
-- 'X-ray shadowing'
-- 'X-rays: diffuse background'
-- 'X-rays: ISM'
-- 'ISM: clouds'
-- 'ISM: bubbles'
-- solar wind
-- Astrophysics - Astrophysics of Galaxies
+# - 'X-ray shadowing'
+# - 'X-rays: diffuse background'
+# - 'X-rays: ISM'
+# - 'ISM: clouds'
+# - 'ISM: bubbles'
+# - solar wind
+# - Astrophysics - Astrophysics of Galaxies
 doi: 10.1051/0004-6361/202345867
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2306.05858
+- name: NASA ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023A%26A...676A...3Y/abstract
 ---
 

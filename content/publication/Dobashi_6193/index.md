@@ -11,17 +11,20 @@ publication_types:
 abstract: 'We focus on a prominent gas cloud, Dobashi 6193, toward the western base of the northern eROSITA bubble (eRObub). It can potentially put a tight distance constraint on the eRObubs and clarify the emissions of the Loop I superbubble from the eRObubs. We found its distance to be 700 pc based on Gaia DR3 stellar extinction and parallax measurements, making it one of the most distant clouds shadowing the eRObubs well above the Galactic disk.'
 featured: false
 publication: '*RNAAS*'
-tags:
-- Diffuse x-ray background
-- Stellar parallax
-- Interstellar dust extinction
-- Superbubbles
-- Hot ionized medium
-- '384'
-- '1618'
-- '837'
-- '1656'
-- '752'
+# tags:
+# - Diffuse x-ray background
+# - Stellar parallax
+# - Interstellar dust extinction
+# - Superbubbles
+# - Hot ionized medium
+# - '384'
+# - '1618'
+# - '837'
+# - '1656'
+# - '752'
 doi: 10.3847/2515-5172/ad8923
----
 
+links:
+- name: NASA ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..268Y/abstract
+---
